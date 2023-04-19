@@ -1,0 +1,5 @@
+-std=ibm
+-fassign-clause=dynamic -fword-continuation=ok
+-fliteral-length=65536 -fcomplex-odo -fodoslide
+-findirect-redefines -frelax-level-hierarchy
+-ffold-copy=UPPER
